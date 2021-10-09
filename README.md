@@ -27,7 +27,7 @@ You will get more information about this program, then you can visit the origina
 ---
 
   - 📂 Downloads: 
-<a href="https://github.com/cryinkfly/Moment-of-Inspiration-MoI3D-for-Linux/tree/main/scripts/stable-branch">Stable</a> and <a href="https://github.com/cryinkfly/Moment-of-Inspiration-MoI3D-for-Linux/tree/main/scripts/development-branch">development builds</a>
+<a href="https://github.com/cryinkfly/Moment-of-Inspiration-MoI3D-for-Linux/tree/main/files/scripts/stable-branch">Stable</a> and <a href="https://github.com/cryinkfly/Moment-of-Inspiration-MoI3D-for-Linux/tree/main/files/scripts/development-branch">development builds</a>
   - 📔 Documentation: Still in Progress!
   - 💬 Would You like to get in touch with me? Or if You have any questions, suggestions or problems?
   - 📫 Then You can create an <a href="https://github.com/cryinkfly/Moment-of-Inspiration-MoI3D-for-Linux/issues">issue</a> here on GitHub or You can contact me via my <a href="https://cryinkfly.com/contact/">contact form</a>!
@@ -49,7 +49,7 @@ You will get more information about this program, then you can visit the origina
 
 ## Downloads
 
-There are some <a href="https://github.com/cryinkfly/Moment-of-Inspiration-MoI3D-for-Linux/tree/main/scripts">script releases</a> available, built from the release targets.
+There are some <a href="https://github.com/cryinkfly/Moment-of-Inspiration-MoI3D-for-Linux/tree/main/files/scripts">script releases</a> available, built from the release targets.
 
 It's recommended that if you're new you start with the stable builds. Development builds are available here if you need it, but correspondingly may be less stable.
 
