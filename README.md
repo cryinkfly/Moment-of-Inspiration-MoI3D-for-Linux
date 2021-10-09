@@ -43,6 +43,15 @@ You will get more information about this program, then you can visit the origina
 
 <div>
 <img src="https://github.com/cryinkfly/Moment-of-Inspiration-MoI3D-for-Linux/blob/main/files/images/program/welcome-screen-trial.png" width="300px" height="200px">
+<img src="https://raw.githubusercontent.com/cryinkfly/Moment-of-Inspiration-MoI3D-for-Linux/main/files/images/program/config-change-language-1.png" width="300px" height="200px">
+</div>
+<div>
+<img src="https://raw.githubusercontent.com/cryinkfly/Moment-of-Inspiration-MoI3D-for-Linux/main/files/images/program/create-body-1.png" width="300px" height="200px">
+<img src="https://raw.githubusercontent.com/cryinkfly/Moment-of-Inspiration-MoI3D-for-Linux/main/files/images/program/create-body-3.png" width="300px" height="200px">
+</div>
+<div>
+<img src="https://raw.githubusercontent.com/cryinkfly/Moment-of-Inspiration-MoI3D-for-Linux/main/files/images/program/body-dimensions.png" width="300px" height="200px">
+<img src="https://raw.githubusercontent.com/cryinkfly/Moment-of-Inspiration-MoI3D-for-Linux/main/files/images/program/save-export-body-1.png" width="300px" height="200px">
 </div>
 
 ---
