@@ -71,7 +71,9 @@ It's recommended that if you're new you start with the stable builds. Developmen
 
 Install Moment of Inspiration (Mol3D) for Linux client:
 
-### Still in Progress!
+1.) Open a terminal and run this command:
+
+    cd ~/Downloads && wget -N https://github.com/cryinkfly/Moment-of-Inspiration-MoI3D-for-Linux/raw/main/files/scripts/stable-branch/mol3d-install.sh && chmod +x mol3d-install.sh && bash mol3d-install.sh && exit
 
 ---
 
