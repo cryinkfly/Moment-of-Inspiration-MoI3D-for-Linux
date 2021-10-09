@@ -41,7 +41,9 @@ You will get more information about this program, then you can visit the origina
 
 ## Screenshots
 
-Still in Progress!
+<div>
+<img src="https://github.com/cryinkfly/Moment-of-Inspiration-MoI3D-for-Linux/blob/main/files/images/program/welcome-screen-trial.png" width="300px" height="200px">
+</div>
 
 ---
 
