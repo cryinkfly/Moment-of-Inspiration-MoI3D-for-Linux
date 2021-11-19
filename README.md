@@ -30,7 +30,7 @@ You will get more information about this program, then you can visit the origina
 <a href="https://github.com/cryinkfly/Moment-of-Inspiration-MoI3D-for-Linux/tree/main/files/scripts/stable-branch">Stable</a> and <a href="https://github.com/cryinkfly/Moment-of-Inspiration-MoI3D-for-Linux/tree/main/files/scripts/development-branch">development builds</a>
   - 📔 Documentation: Still in Progress!
   - 💬 Would You like to get in touch with me? Or if You have any questions, suggestions or problems?
-  - 📫 Then You can create an <a href="https://github.com/cryinkfly/Moment-of-Inspiration-MoI3D-for-Linux/issues">issue</a> here on GitHub or You can contact me via my <a href="https://cryinkfly.com/contact/">contact form</a>!
+  - 📫 Then You can create an <a href="https://github.com/cryinkfly/Moment-of-Inspiration-MoI3D-for-Linux/issues">issue</a> here on GitHub or You visit my <a href="https://cryinkfly.com">website</a> and get in touch with me!
   - 📜 Code of Conduct: Still in Progress!
   - 📖 Information for contributors: All contribution information, Compilation instructions, Roadmap (Still in Progress!)
   - ❤️ I'd like to thank everyone who has <a href="https://github.com/cryinkfly/Moment-of-Inspiration-MoI3D-for-Linux/blob/main/COMMUNITY.md">helped</a> me to get Moment of Inspiration (Mol3D) up and running on Linux!
